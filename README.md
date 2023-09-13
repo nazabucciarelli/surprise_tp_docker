@@ -39,7 +39,7 @@ Lastly, we must run the container to see the project from our localhost.
   sudo docker-compose up -d
 ```
 
-and access it through typing [localhost:5000](http://localhost:5005/) in your browser
+and access it through typing [localhost:5005](http://localhost:5005/) in your browser
 
 
 ## Author
